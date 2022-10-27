@@ -1,0 +1,4 @@
+- Node runs on a server not in a browser backend not frontend
+- The console is the terminal widow
+- Node has global object
+- Missing some Js APIs like fetch
