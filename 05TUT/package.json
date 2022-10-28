@@ -1,0 +1,32 @@
+{
+  "name": "05tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node run",
+    "dev": "nodemon run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAZ1086/NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAZ1086/NodeJs/issues"
+  },
+  "homepage": "https://github.com/JAZ1086/NodeJs#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cloudinary": "^1.32.0",
+    "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
