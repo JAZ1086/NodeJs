@@ -1,0 +1,6 @@
+20221029	11:45:38	7aa556bc-71f3-42f0-9e6e-2519c9fb0e8a	GET	undefined	/index
+
+20221029	11:45:38	4ff01282-98ee-4822-98c4-0bf97b4c1fae	GET	undefined	/css/style.css
+
+20221029	11:57:42	ceabea64-cd7c-4ac8-b32d-c72c82c2a33a	GET	undefined	/css/style.css
+
