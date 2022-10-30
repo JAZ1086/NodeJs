@@ -1,7 +1,7 @@
 // console.log(global) 
 
 const os = require('os')
-const { add} = require('./maths')
+const { add } = require('./maths')
  
 console.log(add(2,3))
 
